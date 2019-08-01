@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-01T19:03:59Z" name="Default suite" finished-at="2019-08-01T19:04:16Z" duration-ms="16376">
+    <groups>
+    </groups>
+    <test started-at="2019-08-01T19:03:59Z" name="Default test" finished-at="2019-08-01T19:04:16Z" duration-ms="16376">
+      <class name="devops.NewTest">
+        <test-method is-config="true" signature="launch()[pri:0, instance:devops.NewTest@142269f2]" started-at="2019-08-02T00:33:59Z" name="launch" finished-at="2019-08-02T00:34:01Z" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="verifyaddbook()[pri:0, instance:devops.NewTest@142269f2]" started-at="2019-08-02T00:34:01Z" name="verifyaddbook" finished-at="2019-08-02T00:34:13Z" duration-ms="12437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddbook -->
+        <test-method is-config="true" signature="close()[pri:0, instance:devops.NewTest@142269f2]" started-at="2019-08-02T00:34:13Z" name="close" finished-at="2019-08-02T00:34:16Z" duration-ms="2361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- devops.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
